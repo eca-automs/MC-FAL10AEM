@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-160.6686390532545
+162.9174484052533
  22
-106.2426035502959
+106.9699812382739
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-214.9704142011834
+217.8799249530957
  41
-1.605780346820809
+1.62748643761302
  42
 50
  43
@@ -2363,7 +2363,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+gost_a
  70
     0
  40
@@ -2377,7 +2377,7 @@ standard
  42
 1
   3
-standard
+gost_a
   4
 
   0
@@ -2391,7 +2391,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-gost_a
+standard
  70
     0
  40
@@ -2405,7 +2405,7 @@ gost_a
  42
 1
   3
-gost_a
+standard
   4
 
   0
@@ -54156,6 +54156,98 @@ standard
     2
  44
 1
+  0
+MTEXT
+  5
+75B
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+284.2066787307402
+ 20
+94.87904053748844
+ 30
+0
+ 40
+2.6
+ 41
+1.444444444444445
+ 71
+    2
+ 72
+    1
+  1
+F\P2\P4
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+0.7
+  0
+MTEXT
+  5
+75C
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+288.8481649981842
+ 20
+95.0363790550289
+ 30
+0
+ 40
+2.6
+ 41
+1.444444444444445
+ 71
+    2
+ 72
+    1
+  1
+F\P4\P8
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+0.7
   0
 ENDSEC
   0
