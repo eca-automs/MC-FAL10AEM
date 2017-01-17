@@ -2,6 +2,7 @@
 2-4                    ALT E BOTTONIERA MANUTENZIONE
 4-5                    INTER FOSSA
 5-6                    ALT CABINA
+6-6A                   CEV
 6-7                    PARACADUTE
 7-8                    PRELIMINARI
 8-9                    PORTE CABINA
