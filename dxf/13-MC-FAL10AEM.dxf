@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--0.5
+10000000000
  20
-0.25
+10000000000
  30
 0
   9
 $EXTMAX
  10
-419.5
+-10000000000
  20
-297.25
+-10000000000
  30
 0
   9
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-232.6792899408284
+232.8120710059171
  22
-150.2573964497041
+150.4760946745562
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-304.0295857988166
+314.0123786982248
  41
-1.680924855491329
+1.62748643761302
  42
 50
  43
@@ -20233,55 +20233,9 @@ standard
  44
 1
   0
-MTEXT
-  5
-285
-100
-AcDbEntity
-  8
-frame-title
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-303
- 20
-35
- 30
-0
- 40
-3
- 41
-44.58333269732729
- 71
-    1
- 72
-    1
-  1
-Schema: MC-FAL10AEM\PAutore: Belardi\PData: 01/16\PFoglio:13 di 18
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
 INSERT
   5
-286
+285
 100
 AcDbEntity
   8
@@ -20321,7 +20275,7 @@ buzzer
   0
 MTEXT
   5
-287
+286
 100
 AcDbEntity
   8
@@ -20367,7 +20321,7 @@ standard
   0
 MTEXT
   5
-288
+287
 100
 AcDbEntity
   8
@@ -20413,7 +20367,7 @@ standard
   0
 LINE
   5
-289
+288
 100
 AcDbEntity
   8
@@ -20437,7 +20391,7 @@ AcDbLine
   0
 LINE
   5
-28A
+289
 100
 AcDbEntity
   8
@@ -20461,7 +20415,7 @@ AcDbLine
   0
 LINE
   5
-28B
+28A
 100
 AcDbEntity
   8
@@ -20485,7 +20439,7 @@ AcDbLine
   0
 INSERT
   5
-28C
+28B
 100
 AcDbEntity
   8
@@ -20525,7 +20479,7 @@ Switch-button-mk
   0
 LINE
   5
-28D
+28C
 100
 AcDbEntity
   8
@@ -20549,7 +20503,7 @@ AcDbLine
   0
 LINE
   5
-28E
+28D
 100
 AcDbEntity
   8
@@ -20573,7 +20527,7 @@ AcDbLine
   0
 LINE
   5
-28F
+28E
 100
 AcDbEntity
   8
@@ -20597,7 +20551,7 @@ AcDbLine
   0
 LINE
   5
-290
+28F
 100
 AcDbEntity
   8
@@ -20621,7 +20575,7 @@ AcDbLine
   0
 LINE
   5
-291
+290
 100
 AcDbEntity
   8
@@ -20640,6 +20594,30 @@ AcDbLine
 93
  11
 381
+ 21
+90
+  0
+LINE
+  5
+291
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+381
+ 20
+90
+ 11
+383
  21
 90
   0
@@ -20659,11 +20637,11 @@ ByLayer
 100
 AcDbLine
  10
-381
+367
  20
-90
+80
  11
-383
+367
  21
 90
   0
@@ -20685,9 +20663,9 @@ AcDbLine
  10
 367
  20
-80
+90
  11
-367
+369
  21
 90
   0
@@ -20707,30 +20685,6 @@ ByLayer
 100
 AcDbLine
  10
-367
- 20
-90
- 11
-369
- 21
-90
-  0
-LINE
-  5
-295
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 369
  20
 90
@@ -20741,7 +20695,7 @@ AcDbLine
   0
 LINE
   5
-296
+295
 100
 AcDbEntity
   8
@@ -20760,6 +20714,30 @@ AcDbLine
 93
  11
 365
+ 21
+90
+  0
+LINE
+  5
+296
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+365
+ 20
+90
+ 11
+367
  21
 90
   0
@@ -20779,30 +20757,6 @@ ByLayer
 100
 AcDbLine
  10
-365
- 20
-90
- 11
-367
- 21
-90
-  0
-LINE
-  5
-298
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 350
  20
 90
@@ -20813,7 +20767,7 @@ AcDbLine
   0
 LINE
   5
-299
+298
 100
 AcDbEntity
   8
@@ -20837,7 +20791,7 @@ AcDbLine
   0
 LINE
   5
-29A
+299
 100
 AcDbEntity
   8
@@ -20861,7 +20815,7 @@ AcDbLine
   0
 LINE
   5
-29B
+29A
 100
 AcDbEntity
   8
@@ -20885,7 +20839,7 @@ AcDbLine
   0
 INSERT
   5
-29C
+29B
 100
 AcDbEntity
   8
@@ -20925,7 +20879,7 @@ junction
   0
 MTEXT
   5
-29D
+29C
 100
 AcDbEntity
   8
@@ -20971,7 +20925,7 @@ standard
   0
 MTEXT
   5
-29E
+29D
 100
 AcDbEntity
   8
@@ -21017,7 +20971,7 @@ standard
   0
 MTEXT
   5
-29F
+29E
 100
 AcDbEntity
   8
@@ -21063,7 +21017,7 @@ standard
   0
 MTEXT
   5
-2A0
+29F
 100
 AcDbEntity
   8
@@ -21109,7 +21063,7 @@ standard
   0
 INSERT
   5
-2A1
+2A0
 100
 AcDbEntity
   8
@@ -21149,7 +21103,7 @@ mcp2014x-connector
   0
 MTEXT
   5
-2A2
+2A1
 100
 AcDbEntity
   8
@@ -21195,7 +21149,7 @@ standard
   0
 LINE
   5
-2A3
+2A2
 100
 AcDbEntity
   8
@@ -21219,7 +21173,7 @@ AcDbLine
   0
 INSERT
   5
-2A4
+2A3
 100
 AcDbEntity
   8
@@ -21259,7 +21213,7 @@ Terminal-in
   0
 LINE
   5
-2A5
+2A4
 100
 AcDbEntity
   8
@@ -21283,7 +21237,7 @@ AcDbLine
   0
 INSERT
   5
-2A6
+2A5
 100
 AcDbEntity
   8
@@ -21323,7 +21277,7 @@ mcp2014x-connector
   0
 MTEXT
   5
-2A7
+2A6
 100
 AcDbEntity
   8
@@ -21369,7 +21323,7 @@ standard
   0
 LINE
   5
-2A8
+2A7
 100
 AcDbEntity
   8
@@ -21393,7 +21347,7 @@ AcDbLine
   0
 INSERT
   5
-2A9
+2A8
 100
 AcDbEntity
   8
@@ -21433,7 +21387,7 @@ Terminal-Earth
   0
 INSERT
   5
-2AA
+2A9
 100
 AcDbEntity
   8
@@ -21473,7 +21427,7 @@ Terminal-Earth
   0
 MTEXT
   5
-2AB
+2AA
 100
 AcDbEntity
   8
@@ -21519,7 +21473,7 @@ standard
   0
 MTEXT
   5
-2AC
+2AB
 100
 AcDbEntity
   8
@@ -21565,7 +21519,7 @@ standard
   0
 INSERT
   5
-2AD
+2AC
 100
 AcDbEntity
   8
@@ -21605,7 +21559,7 @@ mcp2014x-connector
   0
 MTEXT
   5
-2AE
+2AD
 100
 AcDbEntity
   8
@@ -21651,7 +21605,7 @@ standard
   0
 LINE
   5
-2AF
+2AE
 100
 AcDbEntity
   8
@@ -21675,7 +21629,7 @@ AcDbLine
   0
 INSERT
   5
-2B0
+2AF
 100
 AcDbEntity
   8
@@ -21715,7 +21669,7 @@ Terminal-in
   0
 LINE
   5
-2B1
+2B0
 100
 AcDbEntity
   8
@@ -21739,7 +21693,7 @@ AcDbLine
   0
 MTEXT
   5
-2B2
+2B1
 100
 AcDbEntity
   8
@@ -21785,7 +21739,7 @@ standard
   0
 INSERT
   5
-2B3
+2B2
 100
 AcDbEntity
   8
@@ -21825,7 +21779,7 @@ mcp2014x-connector
   0
 LINE
   5
-2B4
+2B3
 100
 AcDbEntity
   8
@@ -21849,7 +21803,7 @@ AcDbLine
   0
 INSERT
   5
-2B5
+2B4
 100
 AcDbEntity
   8
@@ -21889,7 +21843,7 @@ Terminal-Earth
   0
 INSERT
   5
-2B6
+2B5
 100
 AcDbEntity
   8
@@ -21926,6 +21880,52 @@ Terminal-Earth
 0.24
  45
 0.24
+  0
+MTEXT
+  5
+2B6
+100
+AcDbEntity
+  8
+frame-title
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+303
+ 20
+35
+ 30
+0
+ 40
+3
+ 41
+44.58333269732729
+ 71
+    1
+ 72
+    1
+  1
+Schema: MC-FAL10AEM\PFoglio:13 di 18
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
   0
 ENDSEC
   0
