@@ -33,7 +33,7 @@ THV-THV                  CONT.TERMICO VENTOLA MOTORE
 RVF-RVF-RVF              MOTORE VENTOLA RAFFREDDAMENTO
 
 IG-IG                    4°POLO INT.GENERALE
-.---                     NEGATIVO BATTERIE
+-                        NEGATIVO BATTERIE
 24                       PRESA 24V BATTERIE
 48                       PRESA 48V BATTERIE
 72                       PRESA 72V BATTERIE

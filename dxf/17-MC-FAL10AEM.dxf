@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-230.4118198874296
+230.4849353100022
  22
-151.5647279549719
+151.5785780129922
  13
 0
  23
@@ -1145,7 +1145,7 @@ AcDbViewportTableRecord
  40
 308.1444652908067
  41
-1.62748643761302
+1.680924855491329
  42
 50
  43
@@ -2401,7 +2401,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-iso
+standard
  70
     0
  40
@@ -2415,7 +2415,7 @@ iso
  42
 1
   3
-iso
+standard
   4
 
   0
@@ -2429,7 +2429,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+iso
  70
     0
  40
@@ -2443,7 +2443,7 @@ standard
  42
 1
   3
-standard
+iso
   4
 
   0
@@ -9101,7 +9101,7 @@ APERTURA LATO2\PBR2-RC2                  CONTATTO RALL.CHIUSURA LATO2\PCOM-AP1  
   3
 LLARME\PAL+ - AL2                SUONERIA ALLARME\PAL+ - LEM                LUCE EMERGENZA 12 VDC\P\PTHV-THV                  CONT.TERMICO VENTOLA MOTORE\PRVF-RVF-RVF              MOTORE VENTOLA RAFFREDDAMENTO\P\PIG-IG                    4%%DPOLO INT
   3
-.GENERALE\P.---                     NEGATIVO BATTERIE\P24                       PRESA 24V BATTERIE\P48                       PRESA 48V BATTERIE\P72                       PRESA 72V BATTERIE\P96                       PRESA 96V BATTERIE\P\PTN           
+.GENERALE\P-                        NEGATIVO BATTERIE\P24                       PRESA 24V BATTERIE\P48                       PRESA 48V BATTERIE\P72                       PRESA 72V BATTERIE\P96                       PRESA 96V BATTERIE\P\PTN           
   1
             COMUNE TERRE QUADRO\P
   7

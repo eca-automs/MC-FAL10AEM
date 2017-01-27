@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--0.5
+10000000000
  20
-0.25
+10000000000
  30
 0
   9
 $EXTMAX
  10
-419.5
+-10000000000
  20
-297.25
+-10000000000
  30
 0
   9
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-230.1332082551595
+230.4849353100022
  22
-151.2861163227017
+151.4004598249628
  13
 0
  23
@@ -1145,7 +1145,7 @@ AcDbViewportTableRecord
  40
 308.1444652908067
  41
-1.62748643761302
+1.680924855491329
  42
 50
  43
@@ -2401,7 +2401,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-iso
+standard
  70
     0
  40
@@ -2415,7 +2415,7 @@ iso
  42
 1
   3
-iso
+standard
   4
 
   0
@@ -2429,7 +2429,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+iso
  70
     0
  40
@@ -2443,7 +2443,7 @@ standard
  42
 1
   3
-standard
+iso
   4
 
   0
@@ -9101,9 +9101,9 @@ B2                    CARICA BATTERIA 24-48\PAB3                    CARICA BATTE
   3
          RELÈ RALL.OPERATORE 48VCC LATO1\PRL2                    RELÈ RALL.OPERATORE 48VCC LATO2\PRVF                    RELÈ VENTOLA MOTORE\PRD1                    RADDRIZZATORE MANOVRA\PRD2                    RADDRIZZATORE LUMINOSE\PRD3         
   3
-           RADDRIZZATORE FRENO\PRD4                    RADDRIZZATORE PATTINO\PRD5-RD6                RADDRIZZATORI OPERATORI PORTE 4VCC\P\PMCP2015X               SCHEDA MADRE MICROPROCESSORE\PPER16                  SCHEDA ESPANSIONE CHIAMATE-LUMINOSE
+           RADDRIZZATORE FRENO\PRD4                    RADDRIZZATORE PATTINO\PRD5-RD6                RADDRIZZATORI OPERATORI PORTE 4VCC\P\PMCP2015X-SMD           SCHEDA MADRE MICROPROCESSORE\PPER16B-SMD             SCHEDA ESPANSIONE CHIAMATE-LUMINOSE
   1
-\PL1307                  SCHEDA LEGGE 13\PMIAE                   SCHEDA EMERGENZA\P
+\PL1307                  SCHEDA LEGGE 13\PMIAE                   SCHEDA EMERGENZA\PL1000A                 VVVF YASKAWA L1000A\P
   7
 standard
 210
