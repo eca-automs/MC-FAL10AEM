@@ -33,10 +33,10 @@ S40 -	29CV-400VAC
 S50 -	39CV-400VAC
 
 ### Allarme
-12VDC
+12VDC, Legge 13.
 
 ### Emergenza
-Nessuna.
+Completa con riapertura porte tramite inverter SMS MIAE.
 
 ### Emendamento A3
 Nessuno.
