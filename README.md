@@ -9,31 +9,26 @@ MCPX2015-SMD - PER16B-SMD
 Fune.
 
 ### Manovra
-Universale
+Universale.
 
 ### Operatore porte
 Manuale, automatico trifase, automatico elettronico.
 
 ### Avviamento / controllo motore
-VVVF Yaskawa L1000A.
+Con VVVF Yaskawa L1000A (da 5,5KW a 22KW).
 
-### Taglie supportate
-S10 - 6CV-400VAC
-
-S15 - 9CV-400VAC
-
-S20 - 13CV-400VAC
-
-S30 - 19CV-400VAC
-
-S35 -	24CV-400VAC
-
-S40 -	29CV-400VAC
-
-S50 -	39CV-400VAC
+### Potenza massima motore / taglie compatibili
+Taglia|Potenza
+---|---
+S10|6CV-400VAC
+S15|9CV-400VAC
+S20|13CV-400VAC
+S30|19CV-400VAC
+S35|24CV-400VAC
+S40|29CV-400VAC
 
 ### Allarme
-12VDC, Legge 13.
+12VDC, legge 13.
 
 ### Emergenza
 Completa con riapertura porte tramite inverter SMS MIAE.

@@ -1,13 +1,2 @@
-# [Nome versione](tag link) - Data rilascio
-[Compara con precendete](link)
-# Aggiunte
-* add1
-* add2
-
-## Modifiche
-* change1
-* change2
-
-## Errori sistemati
-* fix1
-* fix2
+# [v0.1.1](https://gitlab.com/eca-automs/schematics/MC-FAL10AEM/tags/v0.1.1)
+[Compara con precendete](https://gitlab.com/eca-automs/schematics/MC-FAL10AEM/compare/v0.1.0...v0.1.1)
