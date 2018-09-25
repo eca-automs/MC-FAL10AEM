@@ -1,7 +1,7 @@
 # MC-FAL10AEM
 
 Schema per quadro elettrico per ascensore serie `mcpx`,
-impianto a fune automatico o manuale con VVVF Yaskawa L1000A ed gestione emergenza completa.
+impianto a fune automatico o manuale con VVVF Yaskawa L1000A e gestione emergenza completa.
 
 Puoi trovare il repository dello schema su
 <a href="https://github.com/eca-automs/MC-FAL10AEM" target="_blank">GitHub</a>.
